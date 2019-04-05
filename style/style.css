@@ -1,0 +1,52 @@
+body{
+    font-family: "Noto Serif Armenian" !important;
+}
+
+.search-bar{
+    margin: 20px;
+    text-align: center;
+}
+
+.search-bar input{
+    width: 75%;
+}
+.video-item img{
+    max-width: 64px;
+}
+
+.video-details .details{
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid darkblue;
+    border-radius: 4px;
+}
+
+.list-group-item{
+    cursor: pointer;
+}
+
+.list-group-item hover{
+    background-color: darkblue;
+}
+
+td, th{
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+td:first-of-type, td:first-of-type > div{
+    height:170px;
+    width:300px
+}
+
+.input-group{
+    margin: 20px 0px;
+}
+
+svg{
+    height:200px;
+}
+
+form a{
+    margin-left: 5px;
+}
